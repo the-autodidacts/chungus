@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/yoshinator/chungus/issues"
   },
-  "homepage": "https://github.com/yoshinator/chungus#readme"
+  "homepage": "https://github.com/yoshinator/chungus#readme",
+  "dependencies": {
+    "opn": "^6.0.0"
+  }
 }
