@@ -1,0 +1,22 @@
+{
+  "name": "chungus",
+  "version": "1.0.0",
+  "description": "A module for full Ugandan Chunguses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yoshinator/chungus.git"
+  },
+  "keywords": [
+    "chungus"
+  ],
+  "author": "Yoan Ante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshinator/chungus/issues"
+  },
+  "homepage": "https://github.com/yoshinator/chungus#readme"
+}
